@@ -1,7 +1,7 @@
-name: Metrics
+name: GitHub Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs every 24 hours
   push:
   workflow_dispatch:
 
@@ -13,14 +13,12 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: GOPALNAMDEV
-          template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
           plugin_languages: yes
-          plugin_languages_ignored: html, css
           plugin_languages_details: percentage
-          plugin_languages_limit: 8
+          plugin_contributors: yes
+          plugin_stars: yes
           plugin_followup: yes
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: "https://github.com/GOPALNAMDEV"

@@ -16,8 +16,7 @@
 
 ## 📊 GitHub Metrics Dashboard
 <p align="center">
-  <img src="https://github.com/GOPALNAMDEV/blob/main/github-metrics.svg" alt="GitHub Metrics">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GOPALNAMDEV&show_icons=true&theme=dark" alt="GitHub Stats">
 
 
 ---

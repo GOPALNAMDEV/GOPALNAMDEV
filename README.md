@@ -8,30 +8,66 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&width=500&height=50&lines=🚀+Aspiring+Data+Scientist;💻+Passionate+Developer;🔥+Building+Cool+Projects;📊+AI%2FML+Enthusiast;💡+Always+Learning!" alt="Typing SVG">
 </p>
 
-<h2>🎓 About Me</h2>
-<ul>
-  <li><strong>B.Tech | 4th Semester</strong></li>
-  <li>💡 Passionate about AI/ML, Networking & System Development</li>
-</ul>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GOPALNAMDEV&style=for-the-badge&color=brightgreen" alt="Profile Views">
+</p>
 
-<h2>🔥 What I Do</h2>
-<ul>
-  <li>🖥️ Building real-world projects in <strong>C, C++, Python</strong></li>
-  <li>🤖 Developing AI/ML models & practicing <strong>Leetcode/Kaggle</strong></li>
-  <li>📲 Creating <strong>Android Apps & Web Applications</strong></li>
-  <li>🛠️ Building <strong>Operating Systems & Compilers in C</strong></li>
-  <li>🏗️ Crafting innovative tools like <strong>CV Maker, eBook Formatter & Messaging Apps</strong></li>
-</ul>
+---
 
-<h2>📌 My Goals</h2>
-<ul>
-  <li>✅ Crack <strong>C++ Certification</strong> & Master Python</li>
-  <li>✅ Ace <strong>Placement Prep</strong> & Enhance Coding Skills</li>
-  <li>✅ Build <strong>AI-powered solutions</strong> & Contribute to Open Source</li>
-</ul>
+## 🎓 About Me
+- 🎓 **B.Tech | 4th Semester**
+- 💡 Passionate about **AI/ML, Networking & System Development**
 
-<h2>📫 Let's Connect</h2>
+## 🔥 What I Do
+- 🖥️ Building real-world projects in **C, C++, Python**
+- 🤖 Developing AI/ML models & practicing **Leetcode/Kaggle**
+- 📲 Creating **Android Apps & Web Applications**
+- 🛠️ Building **Operating Systems & Compilers in C**
+- 🏗️ Crafting innovative tools like **CV Maker, eBook Formatter & Messaging Apps**
+
+---
+
+## 🚀 Tech Stack
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css" title="Programming Languages" alt="Languages"/>
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,figma" title="Tools" alt="Tools"/>
+</p>
+
+### 🤖 AI/ML & App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,django,flutter,sqlite,mysql" title="AI/ML & App Development" alt="AI/ML & Apps"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GOPALNAMDEV&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOPALNAMDEV&theme=radical" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GOPALNAMDEV&theme=radical&margin-w=15" alt="GitHub Trophies">
+</p>
+
+---
+
+## 📌 My Goals
+- ✅ Crack **C++ Certification** & Master Python
+- ✅ Ace **Placement Prep** & Enhance Coding Skills
+- ✅ Build **AI-powered solutions** & Contribute to Open Source
+
+---
+
+## 📫 Let's Connect
 <p>
   💼 <a href="https://www.linkedin.com/in/gopal-namdev-a50403324" target="_blank">LinkedIn</a> | 📧 <a href="mailto:gopaln0369@gmail.com" target="_blank">Email</a> | 🌐 <a href="#">Website</a>
 </p>
-

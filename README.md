@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Metrics Dashboard
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOPALNAMDEV&theme=dark" alt="GitHub Streak">
+  <img src="https://ghchart.rshah.org/GOPALNAMDEV" alt="Gopal's GitHub Contributions">
 
 
 ---

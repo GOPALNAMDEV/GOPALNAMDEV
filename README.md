@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Metrics Dashboard
 <p align="center">
-  <img src="https://github.com/GOPALNAMDEV/GOPALNAMDEV/blob/main/github-metrics.svg" alt="GitHub Metrics">
+  <img src="https://github.com/GOPALNAMDEV/blob/main/github-metrics.svg" alt="GitHub Metrics">
 </p>
 
 

@@ -27,6 +27,30 @@
 
 ---
 
+## 📊 GitHub Contributions
+<p align="center">
+  <a href="https://github.com/GOPALNAMDEV">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOPALNAMDEV&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph">
+  </a>
+</p>
+
+---
+
+## ⚡ GitHub Stats & Streaks
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GOPALNAMDEV&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOPALNAMDEV&theme=dark" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GOPALNAMDEV&theme=dark&margin-w=15" alt="GitHub Trophies">
+</p>
+
+---
+
 ## 🚀 Tech Stack
 ### 💻 Programming Languages
 <p>
@@ -35,36 +59,12 @@
 
 ### 🛠️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio" title="Git, GitHub, Linux, VSCode, Android Studio" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,figma" title="Git, GitHub, Linux, VSCode, Android Studio, Figma" alt="Tools"/>
 </p>
 
 ### 🤖 AI/ML & App Development
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,django,flutter,mysql" title="TensorFlow, PyTorch, Flask, Django, Flutter, MySQL" alt="AI/ML & Apps"/>
-</p>
-
----
-
-## 📊 GitHub Contributions
-### ✅ **Standard GitHub Contribution Grid (Green Block Format)**
-[![GOPALNAMDEV's GitHub Contribution Graph](https://github.com/GOPALNAMDEV/GOPALNAMDEV/blob/main/github-contribution-grid-snake.svg)](https://github.com/GOPALNAMDEV)
-
-📌 **Make sure your contributions are public for this grid to be visible!**
-👉 Go to **GitHub Profile → Settings → Profile Privacy → Make Activity Public**
-
----
-
-## ⚡ GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOPALNAMDEV&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOPALNAMDEV&theme=radical" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GOPALNAMDEV&theme=radical&margin-w=15" alt="GitHub Trophies">
 </p>
 
 ---

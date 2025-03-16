@@ -68,7 +68,6 @@
 ---
 
 ## 📈 PageSpeed Insights
-## 📈 PageSpeed Insights
 <p align="center">
   <img src="https://img.shields.io/badge/Performance-97%25-brightgreen?style=flat-circle" alt="Performance">
   <img src="https://img.shields.io/badge/Accessibility-100%25-brightgreen?style=flat-circle" alt="Accessibility">

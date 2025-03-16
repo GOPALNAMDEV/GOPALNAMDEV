@@ -68,12 +68,14 @@
 ---
 
 ## 📈 PageSpeed Insights
+## 📈 PageSpeed Insights
 <p align="center">
-  <img src="https://img.shields.io/badge/Performance-97-brightgreen?style=for-the-badge" alt="Performance">
-  <img src="https://img.shields.io/badge/Accessibility-100-brightgreen?style=for-the-badge" alt="Accessibility">
-  <img src="https://img.shields.io/badge/Best%20Practices-100-brightgreen?style=for-the-badge" alt="Best Practices">
-  <img src="https://img.shields.io/badge/SEO-100-brightgreen?style=for-the-badge" alt="SEO">
+  <img src="https://img.shields.io/badge/Performance-97%25-brightgreen?style=flat-circle" alt="Performance">
+  <img src="https://img.shields.io/badge/Accessibility-100%25-brightgreen?style=flat-circle" alt="Accessibility">
+  <img src="https://img.shields.io/badge/Best%20Practices-100%25-brightgreen?style=flat-circle" alt="Best Practices">
+  <img src="https://img.shields.io/badge/SEO-100%25-brightgreen?style=flat-circle" alt="SEO">
 </p>
+
 
 ---
 

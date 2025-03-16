@@ -14,6 +14,13 @@
 
 ---
 
+## 📊 GitHub Metrics Dashboard
+<p align="center">
+  <img src="https://github.com/GOPALNAMDEV/GOPALNAMDEV/blob/main/github-metrics.svg" alt="GitHub Metrics">
+</p>
+
+---
+
 ## 🎓 About Me
 - 🎓 **B.Tech | 4th Semester**
 - 💡 Passionate about **AI/ML, Networking & System Development**
@@ -24,15 +31,6 @@
 - 📲 Creating **Android Apps & Web Applications**
 - 🛠️ Building **Operating Systems & Compilers in C**
 - 🏗️ Crafting innovative tools like **CV Maker, eBook Formatter & Messaging Apps**
-
----
-
-## 📊 GitHub Contributions
-<p align="center">
-  <a href="https://github.com/GOPALNAMDEV">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOPALNAMDEV&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph">
-  </a>
-</p>
 
 ---
 

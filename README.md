@@ -35,13 +35,11 @@
 ---
 
 ## ⚡ GitHub Stats & Streaks
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GOPALNAMDEV&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOPALNAMDEV&theme=dark" alt="GitHub Streak">
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GOPALNAMDEV&theme=dark&margin-w=15" alt="GitHub Trophies">

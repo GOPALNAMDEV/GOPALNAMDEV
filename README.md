@@ -16,7 +16,9 @@
 
 ## 📊 GitHub Metrics Dashboard
 <p align="center">
-  <img src="https://ghchart.rshah.org/GOPALNAMDEV" alt="Gopal's GitHub Contributions">
+  <img src="https://ghchart.rshah.org/GOPALNAMDEV" alt="Gopal's GitHub Contributions" width="100%" />
+</p>
+
 
 
 ---
